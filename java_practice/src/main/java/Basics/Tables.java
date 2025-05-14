@@ -11,9 +11,7 @@ public class Tables {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number");
         int c=scan.nextInt();
-
-
-        for (int i =1;i<=10;i++){
+        for (int i =1;i<=20;i++){
 
             System.out.println(c +"X"+i +"="+c*i);
         }
