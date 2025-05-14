@@ -10,5 +10,6 @@ public class HelloWorld {
         System.out.println("hello bilal");
         System.out.println("uu");
         System.out.println("hii");
+        System.out.println("hello main");
     }
 }
